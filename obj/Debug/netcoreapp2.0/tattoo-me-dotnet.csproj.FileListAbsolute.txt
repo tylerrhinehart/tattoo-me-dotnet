@@ -1,0 +1,10 @@
+C:\source\codeworks\tattoo-me-dotnet\bin\Debug\netcoreapp2.0\tattoo-me-dotnet.deps.json
+C:\source\codeworks\tattoo-me-dotnet\bin\Debug\netcoreapp2.0\tattoo-me-dotnet.runtimeconfig.json
+C:\source\codeworks\tattoo-me-dotnet\bin\Debug\netcoreapp2.0\tattoo-me-dotnet.runtimeconfig.dev.json
+C:\source\codeworks\tattoo-me-dotnet\bin\Debug\netcoreapp2.0\tattoo-me-dotnet.dll
+C:\source\codeworks\tattoo-me-dotnet\bin\Debug\netcoreapp2.0\tattoo-me-dotnet.pdb
+C:\source\codeworks\tattoo-me-dotnet\obj\Debug\netcoreapp2.0\tattoo-me-dotnet.csproj.CoreCompileInputs.cache
+C:\source\codeworks\tattoo-me-dotnet\obj\Debug\netcoreapp2.0\tattoo-me-dotnet.AssemblyInfoInputs.cache
+C:\source\codeworks\tattoo-me-dotnet\obj\Debug\netcoreapp2.0\tattoo-me-dotnet.AssemblyInfo.cs
+C:\source\codeworks\tattoo-me-dotnet\obj\Debug\netcoreapp2.0\tattoo-me-dotnet.dll
+C:\source\codeworks\tattoo-me-dotnet\obj\Debug\netcoreapp2.0\tattoo-me-dotnet.pdb
