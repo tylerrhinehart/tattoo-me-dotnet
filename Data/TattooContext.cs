@@ -23,4 +23,3 @@ namespace tattoo_me_dotnet
         }
     }
 }
-// Server=keeprdb.database.windows.net;Database=tylersKeeps;User ID=rhinehart22;Password=100%AppleJuice;Trusted_Connection=False;Encrypt=True
